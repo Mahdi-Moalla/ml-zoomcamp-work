@@ -1,0 +1,1 @@
+In this repo, I am putting my work for the DataTalks [machine learning zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp).
